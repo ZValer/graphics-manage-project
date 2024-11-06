@@ -5,21 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
-## [0.0.1] - UNRELEASED
+## [0.0.1] - 06/11/2024
 
 ### Added
-
-### Changed
 - Se actualiza North Area y se añaden esferas (06/11/2024).
 - Se actualiza South Area y se agregan cilindros (06/11/2024).
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Security
 
 ## [0.0.0] - 04/11/2024
 
