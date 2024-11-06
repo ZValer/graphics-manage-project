@@ -14,4 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Actualización inicial de la escena (03/11/2024).
 - Creación de prefabs (03/11/2024).
 - Update North Prefab (04/11/2024).
+- Se sube plantilla de PR (06/11/2024).
 
