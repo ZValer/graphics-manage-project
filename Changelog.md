@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Se actualiza North Area y se añaden esferas (06/11/2024).
+- Se actualiza South Area y se agregan cilindros (06/11/2024).
 
 ### Deprecated
 
